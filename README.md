@@ -30,4 +30,4 @@
 
 Dev full-stack. Interface com Vue e Angular, 3D no browser com Three.js, back-end em Laravel/PHP, Java e Python.
 
-> 12 repositórios públicos — o resto está [aqui](https://github.com/Gabi-maker12345?tab=repositories).
+> Todos os repositórios estão [aqui](https://github.com/Gabi-maker12345?tab=repositories).
