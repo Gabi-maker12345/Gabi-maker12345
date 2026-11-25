@@ -31,8 +31,8 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabi-maker12345&show_icons=true&theme=chartreuse-dark&border_color=444c56" alt="Estatísticas do GitHub de Gabriel Carvalho">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabi-maker12345&langs_count=4&theme=chartreuse-dark&border_color=444c56" alt="Linguagens mais usadas">
+  <img height="165" src="https://gabi-readme-stats.vercel.app/api?username=Gabi-maker12345&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&border_color=444c56" alt="Estatísticas do GitHub de Gabriel Carvalho">
+  <img height="165" src="https://gabi-readme-stats.vercel.app/api/top-langs/?username=Gabi-maker12345&langs_count=4&count_private=true&theme=chartreuse-dark&border_color=444c56" alt="Linguagens mais usadas">
 </p>
 
 ## Sobre
