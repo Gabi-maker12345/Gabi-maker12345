@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=Gabi-maker12345&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=7ee787&border_radius=8" alt="Sequência de contribuições no GitHub">
+  <img height="180" src="https://streak-stats.demolab.com?user=Gabi-maker12345&theme=tokyonight" alt="Sequência de contribuições no GitHub">
 </p>
 
 ## GitHub Stats
@@ -31,8 +31,8 @@
 ---
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabi-maker12345&show_icons=true&hide_rank=true&card_width=430&bg_color=0d1117&border_color=30363d&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9&border_radius=8" alt="Estatísticas do GitHub de Gabriel Carvalho">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabi-maker12345&layout=compact&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=7ee787&text_color=c9d1d9&border_radius=8" alt="Linguagens mais usadas">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabi-maker12345&show_icons=true&theme=chartreuse-dark&border_color=444c56" alt="Estatísticas do GitHub de Gabriel Carvalho">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabi-maker12345&langs_count=4&theme=chartreuse-dark&border_color=444c56" alt="Linguagens mais usadas">
 </p>
 
 ## Sobre
